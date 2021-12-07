@@ -10,7 +10,7 @@ namespace AOC
     {
         static void Main(string[] args)
         {
-            Day3().GetAwaiter().GetResult();
+            Day4.Part2().GetAwaiter().GetResult();
 
             int x = 0;
         }
